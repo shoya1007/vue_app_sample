@@ -1,0 +1,7 @@
+{
+    "name": "vue app sample",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "vue-app",
+    "workspaceFolder": "/vue_app",
+    "forwardPorts": [8080]
+}
